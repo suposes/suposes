@@ -6,5 +6,5 @@ class suposes(ReadMe):
     def __init__(self):
         self.name = "suposes"
         }
-        self.location = "null"
-        self.occupation = "null"
+        self.location = "error"
+        self.occupation = "error"
