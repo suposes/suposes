@@ -5,4 +5,3 @@ class suposes(ReadMe):
 
     def __init__(self):
         self.name = "suposes"
-        }
